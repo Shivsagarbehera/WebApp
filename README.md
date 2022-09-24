@@ -8,5 +8,5 @@ As in my current organization I got a task to do the complete development,deploy
 So lets go throw with all the requirements and steps :
 
 Requirements:-
-IDLE (STS or Eclipse)
+IDLE (STS or Eclipse),
 Knowledge of core Java & Exception handling .
